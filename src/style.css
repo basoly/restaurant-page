@@ -1,0 +1,13 @@
+#home-tab {
+
+}
+
+#tabs {
+    display: flex;
+}
+
+.tab {
+    border: 1px black solid;
+    margin: 10px;
+    background-color: blanchedalmond;
+}
